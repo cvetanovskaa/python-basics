@@ -1,5 +1,5 @@
 ############################
-# The goals of this project was to practice the use of functions, with a focus on parameter passing 
+# The goal of this project was to practice the use of functions, with a focus on parameter passing 
 # and to use conditionals withing functions to create different parts which will depict a coherent picture.
 ############################
 
