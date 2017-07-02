@@ -1,3 +1,7 @@
+# Objectives:
+#   Practice breaking a larger problem down into smaller "mental chunks" using functions (top-down-design)
+#   Gain practice using loops and modulus (%)
+
 import random
 import math
 
